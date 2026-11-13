@@ -1,0 +1,23 @@
+# Vim / Neovim
+# Swap files
+*.sw?
+.*.sw?
+
+# Backup files
+*~
+*.bak
+*.orig
+*.rej
+
+# Undo
+*.un~
+
+# Data
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Trained model checkpoints
+models/checkpoints/*
+!models/checkpoints/.gitkeep
