@@ -9,6 +9,6 @@
 | Подход | Тип | Статус | Файл с заметками |
 | :--- | :--- | :--- | :--- |
 | Günel et al. (2018) | Оценка по пропорциям тела (End-to-End) | Тестируется | [gunel-2018.md](./approaches/gunel-2018.md) |
-| Ratthi, Yogameena, Perumaal (2024) | Детекция + анализ сцены (CCTV) | Изучено | [ratthi-2024](./approaches/ratthi-2024.md)  |
-| Davis (2025) | Анализ силуэта (Adaptive Silhouette Refinement) | В планах |  |
+| Ratthi, Yogameena, Perumaal (2024) | Детекция + анализ сцены (CCTV) | Изучено | [ratthi-2024.md](./approaches/ratthi-2024.md)  |
+| Davis (2025) | Анализ силуэта (Adaptive Silhouette Refinement) | Изучено | [davis-2025.md](./approaches/davis-2025.md)  |
 
